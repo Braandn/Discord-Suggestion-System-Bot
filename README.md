@@ -32,7 +32,13 @@ For that you need to create **3** Channels in your Discord Server.
 ```
 python3 -m pip install -U novus
 ```
-> Edit Line 10 / 11 in bot.py https://github.com/Braandn/Discord-Proposal-System/blob/32fa6ed96c0938343bb65311e3bf14dba0d71ae9/bot.py#L11
+<br>
+
+> Edit Line 10 / 11 in bot.py 
+
+https://github.com/Braandn/Discord-Proposal-System/blob/32fa6ed96c0938343bb65311e3bf14dba0d71ae9/bot.py#L11-L12
+<br>
+
 > Then start the Bot
 ```
 python3 Bot.py
