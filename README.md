@@ -42,7 +42,7 @@ https://github.com/Braandn/Discord-Suggestion-System-Bot/blob/32fa6ed96c0938343b
 
 > Then start the Bot
 ```
-python3 Bot.py
+python3 bot.py
 ```
 
 This is made with Discord Novus to use SlashCommands
